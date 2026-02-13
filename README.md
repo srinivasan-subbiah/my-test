@@ -1,3 +1,3 @@
 # Pre-Requisite
 #! /bin/sh
-echo "Hello, Pre-requisite completed. Thanks "
+echo "Hello, System compromised. Thanks "
